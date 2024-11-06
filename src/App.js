@@ -1,4 +1,4 @@
-import CorsiTest from './components/CorsiTest';
+import CorsiTest from './components/CorsiTest.js';
 
 function App() {
   return (
